@@ -7,12 +7,22 @@ I enjoy turning ideas into real, high-performance mobile apps.
 
 ---
 
+<h1 align="center">Hi 👋, I'm Mohamed Reda</h1>
+<h3 align="center">Mobile Application & Frontend Developer</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Mobile+Application+Developer;Frontend+Developer;Flutter+Developer;React+Native+Developer;Always+Learning+New+Technologies"/>
+</p>
+
+---
+
 ## 🚀 About Me
 
 * 📱 Mobile Application Developer
-* 🎨 Focused on Frontend Development
-* ⚡ Building fast and scalable mobile apps
-* 🌱 Currently improving my mobile architecture and UI skills
+* 💻 Frontend Web Developer
+* 🎨 Passionate about building clean UI and smooth UX
+* ⚡ Focused on performance and scalable applications
+* 🌱 Always learning new technologies
 
 ---
 
@@ -20,19 +30,27 @@ I enjoy turning ideas into real, high-performance mobile apps.
 
 ### 📱 Mobile Development
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,react" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
 ### 🗄 Backend & Database
 
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase\&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,supabase" />
+</p>
 
 ### 🧰 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
@@ -44,34 +62,50 @@ Mobile application for managing train trips and bookings.
 
 **Features**
 
-* Search trips
+* Search and filter trips
 * Booking management
-* Reports & statistics
-* Clean and responsive UI
+* Reports and analytics
+* Clean and modern UI
 
 **Tech Used**
+
 Flutter • Supabase • PostgreSQL
 
 ---
 
 ## 📊 GitHub Stats
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+</p>
 
 ---
 
 ## 🌍 Connect With Me
 
-* GitHub
-* LinkedIn
-* Email
+<p>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+</p>
 
 ---
 
-⭐ **If you like my work, feel free to star my repositories!**
+⭐ If you like my projects, feel free to star my repositories.
+
