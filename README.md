@@ -2,7 +2,7 @@
 <h3 align="center">Mobile Application & Frontend Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Mobile+Application+Developer;Frontend+Developer;Flutter+Developer;React+Native+Developer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Mobile+Application+Developer;Frontend+Web+Developer;Flutter+Developer;React+Native+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Technologies"/>
 </p>
 
 ---
@@ -11,13 +11,14 @@
 
 * 📱 Mobile Application Developer
 * 💻 Frontend Web Developer
-* 🎨 Passionate about building clean UI and smooth UX
-* ⚡ Focused on performance and scalable applications
-* 🌱 Always learning new technologies
+* 🎨 Interested in UI / UX design
+* ⚡ Passionate about building fast and scalable apps
+* 🔗 Experienced in API integration and real-time applications
+* 🌱 Always learning and improving my development skills
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### 📱 Mobile Development
 
@@ -31,21 +32,38 @@
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### 🗄 Backend & Database
+### 🎨 UI / UX Design
 
 <p>
-<img src="https://skillicons.dev/icons?i=firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-### 🧰 Tools
+### ⚙️ Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,dart,js" />
 </p>
+
+### 🔗 Backend & API Integration
+
+* REST API Integration
+* Supabase
+* Firebase
+* Real-Time Applications
 
 ---
 
-## 🚆 Featured Project
+# 💼 What I Do
+
+* Build cross-platform mobile applications
+* Create responsive web interfaces
+* Design modern UI/UX using Figma
+* Integrate APIs with mobile and web apps
+* Develop real-time applications
+
+---
+
+# 🚆 Featured Project
 
 ### Train Booking System
 
@@ -56,7 +74,7 @@ Mobile application for managing train trips and bookings.
 * Search and filter trips
 * Booking management
 * Reports and analytics
-* Clean and modern UI
+* Clean and responsive UI
 
 **Tech Used**
 
@@ -64,7 +82,7 @@ Flutter • Supabase • PostgreSQL
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
@@ -72,7 +90,7 @@ Flutter • Supabase • PostgreSQL
 
 ---
 
-## 🔥 Most Used Languages
+# 🔥 Most Used Languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
@@ -80,7 +98,7 @@ Flutter • Supabase • PostgreSQL
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
@@ -88,7 +106,15 @@ Flutter • Supabase • PostgreSQL
 
 ---
 
-## 🌍 Connect With Me
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+# 📫 Connect With Me
 
 <p>
 <a href="https://github.com/YOUR_USERNAME">
@@ -98,4 +124,4 @@ Flutter • Supabase • PostgreSQL
 
 ---
 
-⭐ If you like my projects, feel free to star my repositories.
+⭐ If you like my projects, consider giving them a star!
