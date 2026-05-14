@@ -1,12 +1,3 @@
-# Hi 👋, I'm Mohamed Reda
-
-📱 **Mobile Application Frontend Developer**
-
-I’m passionate about building modern mobile applications with clean UI and smooth user experience.
-I enjoy turning ideas into real, high-performance mobile apps.
-
----
-
 <h1 align="center">Hi 👋, I'm Mohamed Reda</h1>
 <h3 align="center">Mobile Application & Frontend Developer</h3>
 
@@ -108,4 +99,3 @@ Flutter • Supabase • PostgreSQL
 ---
 
 ⭐ If you like my projects, feel free to star my repositories.
-
