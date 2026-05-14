@@ -82,18 +82,10 @@ Flutter • Supabase • PostgreSQL
 
 ---
 
-# 🔥 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamdis860-boop&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 # 📫 Connect With Me
 
 <p>
-<a href="https://github.com/mohamdis860-boop">
+<a href="https://github.com/YOUR_USERNAME">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 </p>
